@@ -1,0 +1,146 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+	.hvem-er-jeg {
+	
+	margin-top: 48px;
+	margin-left: 450px;
+	width: 30%; 
+	text-align: top;
+}
+
+.marinabillede {
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.billeder {
+	margin-top: 13px;
+	margin-left: 57px;
+
+}
+.textom {
+	margin-top: 40px;
+	margin-left: 450px;
+	margin-right: 100px;
+}
+.textom1 {
+	margin-top: 20px;
+	margin-left: 450px;
+	margin-right: 100px;
+}
+
+.textom2 {
+	margin-top: 20px;
+	margin-left: 450px;
+	margin-right: 100px;
+}
+.flow1billeder{
+	margin-top: 30px;
+	margin-left: 643px;
+	
+}
+
+.scroll {
+	margin-bottom:-50px;
+	margin-left: 600px;
+	
+}
+
+.projekter{
+	margin-top: -520px;
+	margin-left: 55px;
+}
+
+.undertitel {
+	margin-left: 55px;
+	margin-top: -10px;
+}
+.titel1 {
+	
+	margin-left: 55px;
+}
+
+.textpro {
+	margin-left: 55px;
+	margin-top: -10px;
+	margin-right: 680px;
+}
+
+.titel2 {
+	
+	margin-left: 55px;
+	
+}
+
+ .textpro1 {
+	margin-left: 55px;
+	margin-top: -10px;
+	 margin-right: 680px;
+}
+
+.titel3 {
+	margin-left: 55px;
+	margin-top: 20px;
+}
+
+.undertitel1 {
+	margin-left: 55px;
+	margin-top: 300px;
+}
+ .textpro3 {
+	margin-left: 55px;
+	margin-top: -10px;
+	 margin-right: 680px;
+	 
+}
+.titel4 {
+	margin-left: 55px;
+	margin-top: 20px;
+	
+}.textpro4 {
+	margin-left: 55px;
+	margin-top: -10px;
+	margin-right: 680px;
+	
+}
+
+.kontakt {
+	margin-left: 154px;
+	margin-top: -0px;
+}
+
+.forsidebillede {
+	margin-left: 97px;
+	margin-top: -40px;
+}
+
+.flowbilleder2{
+	margin-top: -228px;
+	margin-left: 643px;
+	
+}
